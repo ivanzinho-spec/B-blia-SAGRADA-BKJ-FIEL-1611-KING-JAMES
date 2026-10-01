@@ -1,0 +1,7 @@
+{
+  "name": "Bíblia King James Fiel 1611",
+  "description": "Bíblia King James Fiel 1611 (BKJ 1611) completa com Antigo e Novo Testamento, busca por versículos, anotações, favoritos, histórico e versículo do dia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+no
